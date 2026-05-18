@@ -1,0 +1,51 @@
+body {
+  background-color: #a6c4ca;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 500px;
+  margin: 55px auto;
+  padding: 30px;
+  border: 2px solid rgb(1, 0, 0);
+  background-color: rgb(216, 229, 232);
+  border-radius: 10px;
+}
+
+h1 {
+  width: fit-content;
+  margin: 0 auto 20px auto;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 5px 10px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin: 10px 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.back{
+    display: block;
+    margin-left: 13px;
+    padding-top: 10px;;
+}
+.recipe{
+    max-width:1000px;
+}
+img{
+    display: block;
+    border: 1px solid black;
+    margin:10px auto;
+}
+.submain{
+    margin-bottom:-30px ;
+    margin-top: 10px;
+}
